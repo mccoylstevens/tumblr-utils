@@ -1,4 +1,7 @@
-# tumblr-utils
+
+### License
+
+[GPL3](http://www.gnu.org/licenses/gpl-3.0.txt
 
 This is a collection of utilities dealing with Tumblr blogs.
 
